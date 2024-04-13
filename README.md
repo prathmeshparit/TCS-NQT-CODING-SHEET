@@ -1,5 +1,3 @@
-Sure, here's a brief explanation you could use for your README file on GitHub:
-
 ---
 
 ## TCS Coding Sheet Repository
@@ -28,4 +26,4 @@ Ready to dive in? Explore the repository and start sharpening your Java programm
 
 ---
 
-Feel free to customize this template according to your preferences and add any additional information you deem necessary. Good luck with your GitHub repository!
+
